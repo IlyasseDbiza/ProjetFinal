@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.db
+*.duckdb
+
+# Backend
+backend/uploads/
+backend/dbs/
+.env
+backend/.env
+backend/dashboard.db
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Misc
+.DS_Store
+*.log
